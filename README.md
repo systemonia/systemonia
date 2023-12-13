@@ -1,1 +1,3 @@
 - 👋 Hi, I’m @systemonia
+- I enjoy programming as a hobby and I am generally interested in anything tech-related (except for blockchains, and AI)
+- My favorite language is [nim](//github.com/nim-lang/nim/), but I also enjoy programming in Python, Lua, JavaScript, C# and (very, very rarely) C
